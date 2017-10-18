@@ -140,6 +140,7 @@ namespace LeRPGGame
             // 
             // cboxWeapon
             // 
+            this.cboxWeapon.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboxWeapon.FormattingEnabled = true;
             this.cboxWeapon.Location = new System.Drawing.Point(506, 470);
             this.cboxWeapon.Name = "cboxWeapon";
@@ -148,6 +149,7 @@ namespace LeRPGGame
             // 
             // cboxPotion
             // 
+            this.cboxPotion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboxPotion.FormattingEnabled = true;
             this.cboxPotion.Location = new System.Drawing.Point(506, 513);
             this.cboxPotion.Name = "cboxPotion";
